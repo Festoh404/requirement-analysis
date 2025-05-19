@@ -91,5 +91,8 @@ Objective: Visual representation of interactions between users and the system.
         Help in identifying and organizing system requirements.
         Facilitate communication among stakeholders and development team.
 
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
+
 
 
